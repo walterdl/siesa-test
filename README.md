@@ -1,5 +1,7 @@
 # siesa-test
 
+**[Take a look to the source code and running instructions in the original GitLab repository](https://gitlab.com/walterdl/siesa-test)**
+
 Solution to a technical hiring test for the software developer position.
 
 The test consisted of developing both the front and the back for an online store. The functionalities presented by this system are:
@@ -13,4 +15,4 @@ The test consisted of developing both the front and the back for an online store
 
 The system was developed with `Angular 8`, `[Yii2 Framework](https://www.yiiframework.com/)`, `MySQL`, `NodeJS` with `TypeScript`, and `MongoDB`.
 
-The source code can be found in the original GitLab repository in [this link](https://gitlab.com/walterdl/siesa-test).
+The source code and running instructions can be found in the original GitLab repository in [this link](https://gitlab.com/walterdl/siesa-test).
