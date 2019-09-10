@@ -13,6 +13,6 @@ The test consisted of developing both the front and the back for an online store
 - Management of the shopping cart, allowing to add / remove products from the shopping cart.
 - Payment gateway simulation, where the user confirms the shopping cart and enters their credit card details.
 
-The system was developed with `Angular 8`, `[Yii2 Framework](https://www.yiiframework.com/)`, `MySQL`, `NodeJS` with `TypeScript`, and `MongoDB`.
+The system was developed with `Angular 8`, [`Yii2 Framework`](https://www.yiiframework.com/), `MySQL`, `NodeJS` with `TypeScript`, and `MongoDB`.
 
 The source code and running instructions can be found in the original GitLab repository in [this link](https://gitlab.com/walterdl/siesa-test).
